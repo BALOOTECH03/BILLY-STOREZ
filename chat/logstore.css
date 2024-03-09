@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-image: url('2 com.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: local;
+
+}
+input{
+    background-color: whitesmoke;
+    width: 500px;
+    padding: 20px;
+    border: 2px solid gray;
+    
+}
+button{
+    background-color: #FFC000;
+    color: purple;
+    width: 550px;
+    padding: 20px;
+    font-size: 30px;
+}
